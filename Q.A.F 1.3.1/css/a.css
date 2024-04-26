@@ -1,0 +1,110 @@
+.bg-red {
+    background-color: brown;
+}
+
+.bg1 {
+    background-color: #79BFBF;
+}
+
+.bg2 {
+    background-color: #E9F7F8;
+}
+
+.bg3 {
+    background-color: #EDF8EA;
+}
+
+.bg4 {
+    background-color: #6DC460;
+}
+
+.bg5 {
+    background-color: #FCEBF6;
+}
+
+.bg6 {
+    background-color: #AC5A90;
+}
+
+.bg7 {
+    background-color: #E9F7F8;
+}
+
+.c1 {
+    max-width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 80px;
+    height: 8px;
+    background-color: #79BFBF;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.c2 {
+    max-width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 80px;
+    height: 8px;
+    background-color: #6DC460;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.c3 {
+    max-width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 80px;
+    height: 8px;
+    background-color: #AC5A90;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.bg-image {
+    background-image: url(../09/slide/jay-wennington-N_Y88TWmGwA-unsplash.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    max-width: 992px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container-fluid {
+    max-width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container-fluid2 {
+    max-width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.bg-shadow {
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.d-flex {
+    display: flex;
+}
+
+.br {
+    border-radius: 10px;
+}
+
+.br2 {
+    border-radius: 50%;
+}
+
+.object-cover {
+    object-fit: cover;
+}
